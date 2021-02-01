@@ -1,0 +1,56 @@
+
+.MainCard{
+  display: inline-block;
+  border-radius: 5px;
+  display-self: flex;
+  background-color: #a7c7a1;
+  margin: 25px;
+  width: 300px;
+  height: 150px;
+  padding: 0px;
+}
+
+.TopHeader {
+  border-radius: 5px;
+  width: 100%;
+  background-color: rgb(123, 122, 216);
+  margin-top: 0px;
+  
+}
+
+.MISC {
+  
+}
+
+h1{
+  color: rgb(0, 0, 0);
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+img{
+  width: 75px;
+  height: 75px;
+  margin-top: 0px;
+  margin-left: 25px;
+  float:left;
+}
+
+p{
+  margin: 0px;
+  width: 50px;
+  margin-left: 125px;
+}
+
+
+#red {
+  color: red;
+}
+
+.Gangster {
+  width: 100%;
+  text-align: center;
+  color: wheat;
+  font-size: 100px;
+}
